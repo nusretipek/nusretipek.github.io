@@ -1,1 +1,0 @@
-# nusretipek.github.io
