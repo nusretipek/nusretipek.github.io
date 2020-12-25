@@ -1,5 +1,6 @@
 <html>
 <head>
+  <meta name="google-site-verification" content="C1vqo3AoGXO2H695h53AlGq1J3mFrLCiScO_Sx0arI0" />
 </head>
 <body>
 <center>
